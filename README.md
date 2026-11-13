@@ -26,9 +26,9 @@ house baseline uses). The committed file is 3,373 bytes (limit: 4,096).
 
 ## Repository
 
-- Owner: {owner}
-- Repository: {repo}
-- Referral code: {referral_code}
+- Owner: ryky-pixel
+- Repository: makefun-tiny-chess
+- Referral code: 781caceh
 - Competition: https://make.fun/bounty/tiny-chess-01
 
 ## License
