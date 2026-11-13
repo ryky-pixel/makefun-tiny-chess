@@ -22,7 +22,7 @@ The engine inside is a 0x88-board negamax alpha-beta search with:
 The cleartext engine is about 4.4 KB, over the 4,096-byte cap, so the
 committed `main.py` carries it as an lzma-compressed, base64-encoded
 payload that unpacks and runs at startup (the same packing trick the
-house baseline uses). The committed file is 2,590 bytes (limit: 4,096).
+house baseline uses). The committed file is 3,373 bytes (limit: 4,096).
 
 ## Repository
 
